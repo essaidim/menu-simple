@@ -1,16 +1,16 @@
-Simple-menu
+Menu-simple
 =========
 
 This module allows to create a simple console menu for your node application. It allows you to register menu items with their handlers.
 
 ## Installation
 
-    npm install simple-menu
+    npm install menu-simple
 
 ## Methods
 
 ```javascript
-var menu = require('simple-menu');
+var menu = require('menu-simple');
 ```
 
 Each method returns reference on self object, so calls could be chained.
