@@ -1,0 +1,23 @@
+{
+  "name": "simple-menu",
+  "version": "1.0.0",
+  "description": "Allows to create command line menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "menu",
+    "console",
+    "terminal"
+  ],
+  "author": "EssaidiM",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:essaidim/simple-menu.git"
+  }
+}
