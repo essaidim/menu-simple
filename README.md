@@ -37,7 +37,7 @@ Shows menu
 - _config_ - Optional , conatains messages;
 
 ```javascript
-menu.addItem(
+menu.show(
     {
 		title : 'Menu',
 		selectMessage : 'Your choice : ',
