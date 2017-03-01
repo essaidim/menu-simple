@@ -21,7 +21,7 @@ SimpleMenu.prototype.show = function(config = {}){
 	}
 
 	console.log();
-	console.log('---------- ' + this.title + ' ----------');
+	console.log('---------- ' + this.config.title + ' ----------');
 	console.log();
 
 	for(var i = 0; i < this.items.length; i++){

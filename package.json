@@ -1,6 +1,6 @@
 {
   "name": "menu-simple",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Allows to create command line menu",
   "main": "index.js",
   "scripts": {
